@@ -42,7 +42,7 @@
 
 ---
 
-## ⚙️Steps to Install & Run the Project
+## ⚙️ Steps to Install & Run the Project
 
 ### 1.Clone the repository
 
@@ -52,7 +52,9 @@ cd currency-converter
 ### 2.Install required libraries
 
 pip install requests
+
 pip install beautifulsoup4
+
 pip install matplotlib
 
 ### 3.Run the Python file
@@ -80,5 +82,7 @@ pip install matplotlib
   7.Click Reset to clear inputs.
 
   8.Click Exit to close the program.
+
+  # Screenshots
 
 
