@@ -72,9 +72,9 @@
 
   * Click Convert.
 
-   * **The converted currency value should display on the right.
+     ~The converted currency value should display on the right.
 
-   * **The graph should update with a plotted point.
+     ~The graph should update with a plotted point.
 
   * Move the INR slider and observe updates.
 
