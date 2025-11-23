@@ -83,5 +83,7 @@
   * Click Exit to close the program.
 
   # 📸Screenshots
+   
+    https://github.com/riibytes/VITyarthi-Introduction-to-Problem-Solving-Programming-project-CSE-/tree/69c0a64a4ba85dd866e2f7f5180a5ce3ff26c34b/screenshots
 
 
