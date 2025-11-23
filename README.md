@@ -4,10 +4,10 @@
 # 💸Currency Converter | Foreign Exchange Rates
 
 ## Overview 
-This project is a desktop-based currency converter built using Python and Tkinter.
-It fetches live foreign exchange rates from the web and allows users to convert Indian Rupees (INR) to
-various world currencies.
-A built-in Matplotlib graph visually displays conversion values for better insight
+   This project is a desktop-based currency converter built using Python and Tkinter.
+   It fetches live foreign exchange rates from the web and allows users to convert Indian Rupees (INR) to
+   various world currencies.
+   A built-in Matplotlib graph visually displays conversion values for better insight
 
 ---
 ## ⭐ Features
@@ -28,57 +28,57 @@ A built-in Matplotlib graph visually displays conversion values for better insig
 
 ## 🛠️ Technologies / Tools Used
 
-Python 3.x
+~Python 3.x
 
-Tkinter – GUI framework
+~Tkinter – GUI framework
 
-Requests – to fetch webpage content
+~Requests – to fetch webpage content
 
-BeautifulSoup (bs4) – to parse live exchange rate data
+~BeautifulSoup (bs4) – to parse live exchange rate data
 
-Matplotlib – to display graphs inside Tkinter
+~Matplotlib – to display graphs inside Tkinter
 
-Time module – for date display
+~Time module – for date display
 
 ---
 
-## ⚙️ Steps to Install & Run the Project
+## ⚙️Steps to Install & Run the Project
 
-1.Clone the repository
+### 1.Clone the repository
 
  git clone https://github.com/your-username/currency-converter.git
 cd currency-converter
 
-2.Install required libraries
+### 2.Install required libraries
 
 pip install requests
 pip install beautifulsoup4
 pip install matplotlib
 
-3.Run the Python file
+### 3.Run the Python file
 
  python converter.py
 
 # 🧪Instructions for Testing
 
-1.These steps to verify that the application works correctly:
+  1.These steps to verify that the application works correctly:
 
-2.Launch the application – Ensure the GUI opens without errors.
+  2.Launch the application – Ensure the GUI opens without errors.
 
-3.Select a currency from the dropdown list.
+  3.Select a currency from the dropdown list.
 
-4.Enter an amount in the INR input box.
+  4.Enter an amount in the INR input box.
 
-5.Click Convert.
+  5.Click Convert.
 
- ~The converted currency value should display on the right.
+   ~The converted currency value should display on the right.
 
- ~The graph should update with a plotted point.
+   ~The graph should update with a plotted point.
 
-6.Move the INR slider and observe updates.
+  6.Move the INR slider and observe updates.
 
-7.Click Reset to clear inputs.
+  7.Click Reset to clear inputs.
 
-8.Click Exit to close the program.
+  8.Click Exit to close the program.
 
 
