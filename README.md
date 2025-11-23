@@ -46,7 +46,7 @@
 
 ### 1.Clone the repository
 
- * git clone https://github.com/riibytes/VITyarthi-Introduction-to-Problem-Solving-Programming-project-CSE-.git
+   git clone https://github.com/riibytes/VITyarthi-Introduction-to-Problem-Solving-Programming-project-CSE-.git
 
 ### 2.Install required libraries
 
@@ -62,25 +62,25 @@
 
 # 🧪Instructions for Testing
 
-  * 1.These steps to verify that the application works correctly:
+  * These steps to verify that the application works correctly:
 
-  * 2.Launch the application – Ensure the GUI opens without errors.
+  * Launch the application – Ensure the GUI opens without errors.
 
-  * 3.Select a currency from the dropdown list.
+  * Select a currency from the dropdown list.
 
-  * 4.Enter an amount in the INR input box.
+  * Enter an amount in the INR input box.
 
-  * 5.Click Convert.
+  * Click Convert.
 
-   * **~The converted currency value should display on the right.
+   * **The converted currency value should display on the right.
 
-   * **~The graph should update with a plotted point.
+   * **The graph should update with a plotted point.
 
-  * 6.Move the INR slider and observe updates.
+  * Move the INR slider and observe updates.
 
-  * 7.Click Reset to clear inputs.
+  * Click Reset to clear inputs.
 
-  * 8.Click Exit to close the program.
+  * Click Exit to close the program.
 
   # Screenshots
 
