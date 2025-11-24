@@ -58,7 +58,7 @@
 
 ### 3.Run the Python file
 
- python converter.py
+ Currency Converter.py
 
 # 🧪Instructions for Testing
 
