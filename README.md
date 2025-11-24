@@ -84,6 +84,6 @@
 
   # 📸Screenshots
    
-   ![image alt}()
+   ![image alt}(https://github.com/riibytes/VITyarthi-Introduction-to-Problem-Solving-Programming-project-CSE-/tree/b31524b420ee46e1c045090ac94c6bddff2317a9/screenshots)
 
 
