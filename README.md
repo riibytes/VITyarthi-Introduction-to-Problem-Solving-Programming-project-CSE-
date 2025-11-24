@@ -58,7 +58,7 @@
 
 ### 3.Run the Python file
 
- Currency Converter.py
+    Currency Converter.py
 
 # 🧪Instructions for Testing
 
@@ -83,7 +83,7 @@
   * Click Exit to close the program.
 
   # 📸Screenshots
-   
-   ![image alt}(https://github.com/riibytes/VITyarthi-Introduction-to-Problem-Solving-Programming-project-CSE-/tree/b31524b420ee46e1c045090ac94c6bddff2317a9/screenshots)
+
+![image alt}(https://github.com/riibytes/VITyarthi-Introduction-to-Problem-Solving-Programming-project-CSE-/tree/b31524b420ee46e1c045090ac94c6bddff2317a9/screenshots)
 
 
